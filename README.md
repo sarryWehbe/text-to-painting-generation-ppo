@@ -13,6 +13,12 @@ agent variant across all three metrics to assess cross-metric generalization.
 
 ![Demo](./demo/sunflower.gif)![Demo](./demo/flower.gif)
 
+## Getting Started
+
+```bash
+git clone https://github.com/sarryWehbe/text-to-painting-generation-ppo.git
+```
+
 ## Dependencies
 
 * [PyTorch](http://pytorch.org/)
