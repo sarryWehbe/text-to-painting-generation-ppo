@@ -78,7 +78,7 @@ To evaluate a saved checkpoint and generate a GIF of the painting process,
 change `--eval` to `store_true` in the arguments cell:
 
 ```python
-parser.add_argument("--eval", action="store_true")
+parser.add_argument("--eval", action="store_false")
 ```
 
 Then re-run the notebook. The evaluation GIF will be saved to 
